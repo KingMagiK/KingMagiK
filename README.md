@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Hola%2C+soy+KingMagiK+%F0%9F%94%A5;Hacker+%7C+Coder+%7C+Visionario;Construyendo+mi+imperio+digital...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Hola%2C+soy+MagiK+%F0%9F%94%A5;Programador+%7C+Coder+%7C+Sexy;Construyendo+Cosas+Increibles+...">
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@ $ whoami
 
 🕶️ 20 años | Bogotá | autodidacta en tecnología
 
-🌌 *"Prefiero escribir código en la oscuridad que vivir en la ignorancia..."*
+🌌 *"Life could be a dream..."*
 
 ---
 
@@ -67,7 +67,7 @@ $ whoami
 ---
 
 🎮 **Fun fact:**  
-> A veces aprendo más hackeando cosas que leyendo tutoriales.
+> Y si?...
 
 ---
 
