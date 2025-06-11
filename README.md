@@ -1,53 +1,59 @@
-<h1 align="center">Hola, soy <span style="color:#00ffcc;">MagiK</span> 🧠</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFF0&center=true&vCenter=true&width=435&lines=Hola%2C+soy+KingMagiK+%F0%9F%94%A5;Hacker+%7C+Coder+%7C+Visionario;Construyendo+mi+imperio+digital...">
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Aspirante+a+Hacker+Ético;Desarrollador+Frontend+en+formación;Amante+de+Linux+y+la+Terminal;Alimentado+por+código+y+café+🧋" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="280" />
 </p>
+
+---
+
+🧠 **Sobre mí**
 
 ```bash
 $ whoami
-> MagiK
-> aspirante a hacker ético | desarrollador frontend en progreso | impulsado por café 🧋
+> KingMagiK
+> ethical hacker in training | digital wizard | terminal junkie
 ```
 
----
+🕶️ 20 años | Bogotá | autodidacta en tecnología
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+🌌 *"Prefiero escribir código en la oscuridad que vivir en la ignorancia..."*
 
 ---
 
-🛠️ **Actualmente aprendiendo:**
-- 🧱 HTML, CSS y JavaScript
-- 🐧 Fundamentos de Linux y terminal
-- 💣 Fundamentos de hacking ético
+🛠️ **Aprendiendo actualmente:**
 
-📡 **Metas para 2025:**
-- 🚀 Publicar mi primer portafolio
-- 🧪 Crear proyectos clon (Netflix, Google, etc.)
-- 💼 Conseguir mi primer trabajo remoto en tecnología
+- ⚡ HTML, CSS, JS (proyectos desde cero)
+- 🐧 Linux & herramientas de ciberseguridad
+- ☠️ Hacking ético (redes, OSINT, sniffing)
+- 🧪 Python básico (automatización y scripts)
 
 ---
 
-🔐 **Herramientas que estoy explorando:**
+💻 **Mis herramientas favoritas:**
 
 ```txt
-[>_ Bash ]   [💻 VS Code]   [⚛️ React (pronto)]   [🐍 Python (pronto)] 
+[ VS Code ] [ Termux ] [ Kali Linux ] [ Git & GitHub ]
+[ Burp Suite ] [ Bash ] [ Nmap ] [ Wireshark ]
 ```
+
+---
+
+🎯 **Objetivos 2025**
+
+- 💼 Primer trabajo remoto en ciberseguridad
+- 🚀 Crear 5 proyectos públicos útiles
+- 🧠 Aumentar mi skill técnico cada semana
+- 🌐 Conectar con otros devs y hackers latinos
 
 ---
 
 📊 **Estadísticas de GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingMagiK&show_icons=true&theme=dracula" alt="Estadísticas de GitHub de KingMagiK">
-</p>
-
-📌 **Lenguajes más usados**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagiK&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=KingMagiK&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingMagiK&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -55,9 +61,17 @@ $ whoami
 📈 **Visitas al perfil**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MagiK&label=Visitas+al+Perfil&color=00ffcc&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=KingMagiK&label=Profile+Views&color=00fff0&style=flat">
 </p>
 
 ---
 
-> “Hack the planet, but first... learn to write clean code.” – probably someone cool
+🎮 **Fun fact:**  
+> A veces aprendo más hackeando cosas que leyendo tutoriales.
+
+---
+
+💬 *Contáctame pronto… aún no estoy en la red, pero pronto dominaré el sistema.*
+
+🕷️ *Stay anonymous. Stay dangerous.*
+
