@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkarthi-the-hacker%2Fkarthi-the-hacker&psig=AOvVaw2JB04xaIxnQDwzY8_0-B-L&ust=1749765645981000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiYyJCv6o0DFQAAAAAdAAAAABAE)" width="280" />
+  <img src="https://camo.githubusercontent.com/0a0dc4ec78739f9c62b556ee154065af0de7b337110cfd95587770c4b3e269c7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7a7a6e746d325f3942336741414141432f6861636b65722e676966" width="280" />
 </p>
 
 ---
