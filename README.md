@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="280" />
+  <img src="[https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fkarthi-the-hacker%2Fkarthi-the-hacker&psig=AOvVaw2JB04xaIxnQDwzY8_0-B-L&ust=1749765645981000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPiYyJCv6o0DFQAAAAAdAAAAABAE)" width="280" />
 </p>
 
 ---
