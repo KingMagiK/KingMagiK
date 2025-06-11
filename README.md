@@ -41,7 +41,7 @@ $ whoami
 📊 **Estadísticas de GitHub**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagiK&show_icons=true&theme=dracula" alt="Estadísticas de GitHub de MagiK">
+  <img src="https://github-readme-stats.vercel.app/api?username=KingMagiK&show_icons=true&theme=dracula" alt="Estadísticas de GitHub de KingMagiK">
 </p>
 
 📌 **Lenguajes más usados**
@@ -60,4 +60,4 @@ $ whoami
 
 ---
 
-> “Hackea el planeta, pero primero... aprende a escribir código limpio.” – probablemente alguien genial
+> “Hack the planet, but first... learn to write clean code.” – probably someone cool
