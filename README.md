@@ -16,8 +16,6 @@ $ whoami
 > ethical hacker in training | digital wizard | terminal junkie
 ```
 
-🕶️ 20 años | Bogotá | autodidacta en tecnología
-
 🌌 *"Life could be a dream..."*
 
 ---
